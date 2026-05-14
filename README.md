@@ -1,5 +1,6 @@
 # LYFTR  — Management System
 A full-stack Gym Management System with a modern SaaS-style dark-sidebar dashboard.
+
 <img width="336" height="276" alt="image" src="https://github.com/user-attachments/assets/71fe0d39-7de9-497d-8985-47eab3962f51" />
 
 ---
